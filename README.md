@@ -3,6 +3,10 @@
 Portable skills for building better and faster with coding agents like Codex,
 Claude Code, and other SKILL.md-compatible tools.
 
+These skills are inspired by the workflow [Andrej Karpathy](https://x.com/karpathy) uses to build
+quality software faster and more reliably with AI agents: write a precise spec,
+define a verifier, and improve the environment the agent works inside.
+
 This collection is intentionally small. V1 focuses on one reusable engineering
 loop:
 
@@ -48,9 +52,11 @@ skills/
 
 ## Positioning
 
-These skills are inspired by the practical spec, verifier, and environment
-structure used by strong agent-assisted developers. They are not official
-skills from any model provider or public speaker.
+This collection highlights the Karpathy-inspired workflow for high-quality
+agent-assisted software development: make the goal explicit, turn it into a
+tight spec, verify the result with real signals, and compound the environment
+over time. These are not official skills from Karpathy, any model provider, or
+any public speaker.
 
 ## Development
 
