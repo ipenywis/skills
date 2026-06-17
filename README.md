@@ -8,7 +8,7 @@ quality software faster and more reliably with AI agents: write a precise spec,
 define a verifier, and improve the environment the agent works inside.
 
 This collection is intentionally small. V1 focuses on one reusable engineering
-loop:
+loop plus a research-only ask mode:
 
 1. Turn vague work into a tight spec.
 2. Define verification before implementation.
@@ -34,6 +34,7 @@ This installs the collection from
 | `c1-agent-spec` | Convert vague requests into decision-ready implementation specs. |
 | `c1-agent-verify` | Create and run verification plans for agent-built work. |
 | `c1-agent-environment` | Set up reusable project context, knowledge layout, and guardrails. |
+| `c1-ask` | Investigate, debug, and answer directly without mutating until explicit approval. |
 
 ## Layout
 
@@ -47,6 +48,8 @@ skills/
     c1-agent-verify/
       SKILL.md
     c1-agent-environment/
+      SKILL.md
+    c1-ask/
       SKILL.md
 ```
 
