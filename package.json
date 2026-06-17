@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "version": "0.1.0",
+  "description": "Portable skills for better coding-agent specs, verification, and environments.",
+  "private": false,
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderOne/skills.git"
+  },
+  "keywords": [
+    "ai-agents",
+    "skills",
+    "codex",
+    "claude-code",
+    "engineering-workflow"
+  ]
+}
