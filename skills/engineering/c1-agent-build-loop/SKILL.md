@@ -1,5 +1,5 @@
 ---
-name: agent-build-loop
+name: c1-agent-build-loop
 description: Guide a coding agent through a complete spec-to-verify implementation loop. Use when a developer asks an agent to build, refactor, fix, or plan non-trivial software work and wants better results through an interview, tight spec, explicit verification, small checkpoints, and a reusable agent environment.
 ---
 
@@ -11,9 +11,9 @@ Run coding-agent work as a tight engineering loop: clarify the goal, write a sma
 
 Use this as the orchestrator. For deeper work, route to:
 
-- `agent-spec` for turning the request into a decision-ready spec.
-- `agent-verify` for the verification plan and completion checks.
-- `agent-environment` when the repo lacks reusable agent instructions, context, or guardrails.
+- `c1-agent-spec` for turning the request into a decision-ready spec.
+- `c1-agent-verify` for the verification plan and completion checks.
+- `c1-agent-environment` when the repo lacks reusable agent instructions, context, or guardrails.
 
 ## Workflow
 

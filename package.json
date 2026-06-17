@@ -7,7 +7,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoderOne/skills.git"
+    "url": "git+https://github.com/ipenywis/skills.git"
   },
   "keywords": [
     "ai-agents",

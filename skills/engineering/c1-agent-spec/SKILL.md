@@ -1,5 +1,5 @@
 ---
-name: agent-spec
+name: c1-agent-spec
 description: Turn vague coding-agent requests into tight, decision-ready implementation specs. Use when a developer asks to build, refactor, debug, migrate, or design software and the agent needs to clarify goal, scope, constraints, interfaces, edge cases, acceptance criteria, and checkpoints before implementation.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: agent-verify
+name: c1-agent-verify
 description: Create and run verification plans for coding-agent work. Use when a developer needs tests, typecheck, lint, build checks, runtime checks, screenshots, logs, external signals, or second-agent critique to prove that an implementation, refactor, bug fix, migration, or generated artifact is correct.
 ---
 

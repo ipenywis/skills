@@ -1,5 +1,5 @@
 ---
-name: agent-environment
+name: c1-agent-environment
 description: Set up reusable project context and guardrails for coding agents. Use when a developer wants better Codex, Claude Code, or other agent sessions through AGENTS.md or CLAUDE.md guidance, repo orientation, knowledge-base layout, repeated workflow skills, and always/ask/never safety rules.
 ---
 

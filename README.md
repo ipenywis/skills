@@ -20,33 +20,33 @@ loop:
 After this repository is published on GitHub:
 
 ```bash
-npx skills add CoderOne/skills
+npx skills add ipenywis/skills
 ```
 
-If the repository owner changes, replace `CoderOne` with the actual GitHub
-owner.
+This installs the collection from
+[`ipenywis/skills`](https://github.com/ipenywis/skills).
 
 ## Skills
 
 | Skill | Purpose |
 | --- | --- |
-| `agent-build-loop` | Orchestrate a full spec-to-verify coding-agent session. |
-| `agent-spec` | Convert vague requests into decision-ready implementation specs. |
-| `agent-verify` | Create and run verification plans for agent-built work. |
-| `agent-environment` | Set up reusable project context, knowledge layout, and guardrails. |
+| `c1-agent-build-loop` | Orchestrate a full spec-to-verify coding-agent session. |
+| `c1-agent-spec` | Convert vague requests into decision-ready implementation specs. |
+| `c1-agent-verify` | Create and run verification plans for agent-built work. |
+| `c1-agent-environment` | Set up reusable project context, knowledge layout, and guardrails. |
 
 ## Layout
 
 ```text
 skills/
   engineering/
-    agent-build-loop/
+    c1-agent-build-loop/
       SKILL.md
-    agent-spec/
+    c1-agent-spec/
       SKILL.md
-    agent-verify/
+    c1-agent-verify/
       SKILL.md
-    agent-environment/
+    c1-agent-environment/
       SKILL.md
 ```
 
