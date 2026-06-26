@@ -1,4 +1,4 @@
-# CoderOne Skills
+# Agentic Engineering Skills
 
 Portable skills for building better and faster with coding agents like Codex,
 Claude Code, and other SKILL.md-compatible tools.
